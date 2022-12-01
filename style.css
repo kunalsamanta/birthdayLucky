@@ -1,0 +1,34 @@
+body{
+   background-color:rgba(38, 0, 255, 0.466);
+}
+
+h1{
+    text-align: center;
+}
+.cointener{
+    width: 50%;
+    margin: auto;
+}
+input,label{
+    display: block;
+}
+
+#birth-day{
+    margin:1% ;
+    width: 50%;
+}
+
+#lucky-number{
+    margin:1%;
+    width: 50%;
+}
+
+input{
+
+}
+#check-number{
+    display: block;
+    margin-top: 1rem;
+    margin: auto;
+    color:blue;
+}
